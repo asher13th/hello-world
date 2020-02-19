@@ -1,2 +1,5 @@
 # hello-world
-Just get familiar with git hub
+
+Hi Humans on the earth!
+
+I'm Khoi, a guy who passionate with the data engineering career path.
